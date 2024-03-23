@@ -238,6 +238,11 @@ input[type="search"]::-webkit-search-cancel-button {
     background-size: 20px;
 }
 
+.marginLeft{
+    margin-left: 280px;
+
+}
+
 [x-cloak] {
     display: none !important;
 }
