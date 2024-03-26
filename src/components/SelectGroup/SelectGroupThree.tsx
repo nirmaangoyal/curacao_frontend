@@ -11,9 +11,7 @@ const SelectGroupTwo: React.FC = () => {
 
   return (
     <div>
-      <label className="mb-3 block text-sm font-medium text-black dark:text-white">
-        TV Campaign Vendor
-      </label>
+      
 
       <div className="relative z-20 bg-white dark:bg-form-input">
         <span className="absolute left-4 top-1/2 z-30 -translate-y-1/2">
