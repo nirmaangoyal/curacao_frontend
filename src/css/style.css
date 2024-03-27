@@ -246,19 +246,3 @@ input[type="search"]::-webkit-search-cancel-button {
 [x-cloak] {
     display: none !important;
 }
-
-.sm\:grid-cols-campaign{
-    grid-template-columns:2fr 1fr;
-}
-.red{
-    color:red;
-}
-.sm\:grid-cols-5.tab {
-    grid-template-columns: 0.5fr 2fr 2fr 1fr 1fr;
-}
-.delete{
-    color:red;
-}
-.clist .xsm\:text-base {
-    font-size: 0.7em!important;
-}
